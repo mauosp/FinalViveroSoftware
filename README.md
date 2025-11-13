@@ -133,6 +133,3 @@ Tu proyecto será evaluado según:
 - [MDN Web Docs - HTML](https://developer.mozilla.org/es/docs/Web/HTML)
 - [MDN Web Docs - CSS](https://developer.mozilla.org/es/docs/Web/CSS)
 - [W3Schools - HTML Tutorial](https://www.w3schools.com/html/)
-
-### Inspiración de diseño:
-- Busca "CV templ
